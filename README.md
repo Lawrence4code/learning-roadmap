@@ -1,46 +1,28 @@
-# Learning-Roadmap 📖🗺
-A repository to keep track of my roadmap to being a more knowledgeable developer
+# Learning-Roadmap
 
-## Why I decided to make this? 🤔
-I wanted to make this because I felt lost, without clear direction on where I my career to go. I want to be the best developer I can be, which means I need a roadmap.
+A repository to keep track of my Developer Roadmap to being a more knowledgeable and effective developer.
 
-## My intentions with this roadmap ➡️
-To give myself more structure and a clear picture on where I will be (skill-wise) within the next five years. My goal is to use this roadmap to guide my learning inside & outside of the office.
+## Why I decided to make this?
 
-### The Roadmap 🗺 
-Some of the inspiration has come from these guides:
-- @p1xt's [Computer Science and Web Development - comprehensive](https://github.com/P1xt/p1xt-guides/blob/master/cs-wd.md)
-- @freeCodeCamp's [curriculum](https://learn.freecodecamp.org/)
-- @ossu's [computer science degree](https://github.com/ossu/computer-science)
-- conversation with [@trevor-scheer](https://github.com/trevor-scheer)
+Venturing into techinical field (Full Stack Developer) from a non-techinical (Credit Analyst) field, makes me feel there's so much to learn and in persuit to more and everything, sometime I get lost into serveral concepts/projects and lose my track.
 
-#### Tier 1 - Getting Started 
+Somebody more wiser than me advised me to create such roadmap and stick to it. This repository contains all the goals for next 5 years, list of concept, course, project and cerification that I want to pursue and achieve within the defined time.
 
-* [X] Course: [Introduction to Computer Science - CS50 (thru Week 6)](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
-* [X] Course: [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
-* [X] Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
-* [X] Project: Build a Survey Form
-* [ ] Course: [Advanced React](https://advancedreact.com/)
+## My intentions with this Roadmap
 
+To give myself more structure and a clear picture on where I will be (skill-wise) within the next five years. My goal is to use this Roadmap to guide my learning inside & outside of the office.
 
-#### Tier 2 - Hot Tech
+#### Tier 1 - Within 2018
 
-* [ ] Project: Build an app/website that uses Apollo and GraphQL
-* [ ] Project: Build an app/website that uses TypeScript
-* [ ] Project: Build an mobile app with React Native
+- [x] Portfolio: Create portfolio website and publish.
+- [ ] Portfolio: Create 2 big portfolio projects and publish along with 6 small projects.
+- [ ] Create/Update all the profiles - Github, LinkedIn, Resume, Website etc.
+- [ ] 1st OpenSource Contribution.
 
-#### Tier 3 - Step It Up
+#### Tier 2 - Within 2019
 
-* [ ] Project: Build a Node CLI tool
-* [ ] Project: Publish a open source package on NPM
-* [ ] Project: Build a [fullstack app with Apollo](https://github.com/apollographql/fullstack-tutorial)
+- [ ] Google Developer Expert.
+- [ ] Title of Senior Developer at work.
+- [ ] Conference Talk on Perf/React/JavaScript.
 
-
-##### Milestones 
-- completed Article: Read Project Specification Documents on August 27th, 2018
-- completed CS50 on September 2nd, 2018
-- completed "Build a Survey Form" on September 9th, 2018
-- completed Introduction to Computer Science and Programming with Python on October 29th, 2018
-- submitted talk to JS Heroes and Phoenix WordCamp
-- stopped at Advanced React - Module 4. Clientside GraphQL - video 21
-- continued working on Timezoner    
+##### Milestones

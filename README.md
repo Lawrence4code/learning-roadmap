@@ -19,6 +19,7 @@ To give myself more structure and a clear picture on where I will be (skill-wise
 - [ ] Create/Update all the profiles - Github, LinkedIn, Resume, Website etc.
 - [ ] Interview preparation and getting better at Algorithms and Data Structure.
 - [ ] 1st OpenSource Contribution.
+- [ ] Master 20% of JavaScript which help me to get 80% of my work done.
 
 #### Tier 2 - Within 2019
 
